@@ -52,4 +52,11 @@ section>div>ul{
     justify-content: space-around;
     padding:20px
 }
+.sectionthree{
+    background-color: black;
+
+}
+.sectionthree h2{
+    color: white;
+}
 
