@@ -12,7 +12,7 @@ nav>ul{
 nav>ul>li{
     display: inline-block;
     margin-right: 30px;
-    color: azure;
+    color: rgb(72, 78, 78);
 }
 .navinfo{
     width: 50%;
@@ -21,7 +21,7 @@ nav>ul>li{
 section{
     width:100%;
 
-    background-color: aqua;
+    background-color: rgb(224, 252, 252);
 }
 .sectiontwo{
     margin-top: 20px;
@@ -50,10 +50,14 @@ section>div>ul{
 #row2{
     margin-left: 30px;
     justify-content: space-around;
-    padding:20px
+    padding:20px;
+    margin-bottom: 20px;
+    
 }
 .sectionthree{
     background-color: black;
+    height: 300px;
+   
 
 }
 .sectionthree h2{
@@ -63,4 +67,16 @@ section>div>ul{
     color: white;
     list-style: none;
 }
+.sectionthree p{
+    color:white
 
+}
+footer{
+    display: flex;
+}
+#three{
+    display: flex;
+    padding-top: 0px;
+    margin-left: 200px;
+
+}
