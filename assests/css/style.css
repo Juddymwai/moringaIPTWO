@@ -23,6 +23,10 @@ section{
 
     background-color: aqua;
 }
+.sectiontwo{
+    margin-top: 20px;
+}
+
 section>div>ul{
     display: flex;
     list-style:none ;
