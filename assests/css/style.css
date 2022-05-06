@@ -59,4 +59,8 @@ section>div>ul{
 .sectionthree h2{
     color: white;
 }
+.sectionthree ul{
+    color: white;
+    list-style: none;
+}
 
