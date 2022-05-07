@@ -1,5 +1,6 @@
 body{
   font-family: poppins,Actor,Adamina;  
+  
  
   
 }
@@ -31,10 +32,14 @@ section{
 .sectiontwo{
     margin-top: 20px;
     display: flex;
+    padding-left: 150px;
 }
 #image1{
     
 padding: 10px;
+}
+#sectioninfo{
+    padding-left: 100px;
 }
 
 section>div>ul{
@@ -62,6 +67,7 @@ section>div>ul{
 .sectionthree{
     background-color: black;
     height: 300px;
+    
    
 
 }
@@ -82,7 +88,7 @@ footer{
 #three{
     display: flex;
     padding-top: 0px;
-    margin-left: 200px;
+    margin-left: 800px;
 
 }
 button{
@@ -132,11 +138,12 @@ button{
     
     display: inline-block
 
-
 }
 #slidepic>ul{
     width: 65%;
+   
 }
+
 form{
     float: right;
     background-color: azure;
@@ -179,30 +186,30 @@ table{
     background-color:rgb(204, 196, 196);
     height: 150px;
 
-
-
 }
 .table{
     background-color: rgb(232,231,231);
     border-radius: 20px;
     width: 65%;
-    padding-left: 20px;
+    padding-left: 70px;
     
 }
 #description{
     border-radius: 20px;
     width: 65%;
-    padding-left: 20px;
+    padding-left:70px;
     
 }
 #featureone{
    display: flex;
    justify-content: space-between;
+   padding-right: 60px;
+
 }
 #features{
   border-radius: 30px;  
   width: 65%;
-  padding-left: 20px;
+  padding-left: 70px;
 }
 #featureone>div>ul{
     list-style: none;
@@ -255,7 +262,9 @@ tr,td{
     border: 1px solid grey;
     border-collapse: collapse;
 }
-
+#listings{
+    padding-left: 70px;
+}
 
 
    
