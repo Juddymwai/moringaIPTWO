@@ -239,6 +239,14 @@ margin-right:20px;
 justify-content: space-between;
 }
 
+button>table{
+    height:50px;
+    padding-top:none;
+    border-collapse: collapse;
+    border:1px solid lightgrey
+    
+}
+
 
 
    
