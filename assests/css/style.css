@@ -134,7 +134,30 @@ button{
 }
 form{
     float: right;
+    background-color: azure;
+    margin-top: 10px;
+    border-radius: 20px;
+    padding-left: 5px;
+    margin-right: 100px;
     
+}
+#name,#email,#number{
+    border-radius: 20px;
+    margin: 3px;
+    padding: 10px;
+
+}
+#text{
+    padding:30px;
+    border-radius: 10px;
+}
+#submit{
+    margin-top: 20px;
+    background-color: black;
+    color:#FFAC12;
+    padding: 30px;
+    width: 300px;
+    border-top-right-radius: 30px;
 }
 table,tr,td{
     padding: 15px;
