@@ -121,7 +121,12 @@ button{
 .slideshow{
     padding-left: 20px;
 }
+#homeimage{
+    padding-left: 70px;
+}
+#slidepic{
 
+}
 
 #slidepic li{
     
@@ -129,7 +134,7 @@ button{
 
 
 }
-#slidepic ul{
+#slidepic>ul{
     width: 65%;
 }
 form{
@@ -245,6 +250,10 @@ button>table{
     border-collapse: collapse;
     border:1px solid lightgrey
     
+}
+tr,td{
+    border: 1px solid grey;
+    border-collapse: collapse;
 }
 
 
