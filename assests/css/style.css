@@ -173,7 +173,7 @@ form{
 }
 table,tr,td{
     padding: 15px;
-    border: 1px solid grey;
+    border: 2px solid white;
     border-collapse: collapse;
     
 
@@ -188,7 +188,7 @@ table{
 
 }
 .table{
-    background-color: rgb(232,231,231);
+    background-color: white;
     border-radius: 20px;
     width: 65%;
     padding-left: 70px;
@@ -198,12 +198,15 @@ table{
     border-radius: 20px;
     width: 65%;
     padding-left:70px;
+    padding-bottom: 30px;
     
 }
 #featureone{
    display: flex;
    justify-content: space-between;
    padding-right: 60px;
+   padding-bottom: 30px;
+
 
 }
 #features{
@@ -259,7 +262,7 @@ button>table{
     
 }
 tr,td{
-    border: 1px solid grey;
+    border: 1px solid rgb(233,231,231);
     border-collapse: collapse;
 }
 #listings{
