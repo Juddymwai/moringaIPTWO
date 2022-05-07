@@ -1,3 +1,7 @@
+body{
+  font-family: poppins,Actor,Adamina;  
+  
+}
 nav{
     width: 100%;
     height:500px;
@@ -20,8 +24,8 @@ nav>ul>li{
 }
 section{
     width:100%;
+    background-color: rgb(233,231,231);
 
-    background-color: rgb(224, 252, 252);
 }
 .sectiontwo{
     margin-top: 20px;
@@ -80,3 +84,128 @@ footer{
     margin-left: 200px;
 
 }
+
+
+
+/* CSS code for page TWO */
+
+
+#headerone{
+    background-color: black;
+    color: azure;
+    padding-left: 20px;
+}
+
+#headertwo{
+    display: flex;
+    justify-content: space-between;
+}
+#headerone>ul{
+    list-style: none;
+    display: flex;
+    justify-content:right;
+    padding-top: 20px;
+    
+}
+#headerone>ul>li{
+    padding-right: 30px;
+}
+button{
+    border-style: none;
+}
+
+.slideshow{
+    padding-left: 20px;
+}
+
+
+#slidepic li{
+    padding-right:20px;
+    display: inline-block
+
+}
+#slidepic ul{
+    width: 65%;
+}
+form{
+    float: right;
+    
+}
+table,tr,td{
+    padding: 15px;
+    border: 1px solid grey;
+    border-collapse: collapse;
+    
+
+}
+table{
+    width: 100%;
+    margin-top:40px;
+    margin-left: 0px;
+    border-radius: 30px;
+    background-color:rgb(204, 196, 196);
+    height: 150px;
+
+
+
+}
+.table{
+    background-color: rgb(232,231,231);
+    border-radius: 20px;
+    width: 65%;
+    padding-left: 20px;
+    
+}
+#description{
+    border-radius: 20px;
+    width: 65%;
+    padding-left: 20px;
+    
+}
+#featureone{
+   display: flex;
+   justify-content: space-between;
+}
+#features{
+  border-radius: 30px;  
+  width: 65%;
+  padding-left: 20px;
+}
+#featureone>div>ul{
+    list-style: none;
+
+}
+#feature>div>ul>li:before{
+    content: '\2713';
+
+}
+.footertwo{
+    background-color: black;
+    height: 300px;
+   
+
+}
+.footertwo h2{
+    color: white;
+}
+.footertwo ul{
+    color: white;
+    list-style: none;
+}
+.footertwo p{
+    color:white
+
+}
+footer{
+    display: flex;
+}
+#list{
+    display: flex;
+    padding-top: 0px;
+    margin-left: 800px;
+    
+}
+
+
+
+    
