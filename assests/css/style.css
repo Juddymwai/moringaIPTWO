@@ -1,5 +1,6 @@
 body{
   font-family: poppins,Actor,Adamina;  
+ 
   
 }
 nav{
@@ -84,6 +85,9 @@ footer{
     margin-left: 200px;
 
 }
+button{
+    border: 0px;
+}
 
 
 
@@ -120,8 +124,9 @@ button{
 
 
 #slidepic li{
-    padding-right:20px;
+    
     display: inline-block
+
 
 }
 #slidepic ul{
@@ -206,7 +211,15 @@ footer{
     margin-left: 800px;
     
 }
+img{
+margin-right:20px;
+justify-content: space-between;
+}
 
+}
+
+   
+   
 
 
 
