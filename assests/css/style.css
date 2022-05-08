@@ -109,7 +109,12 @@ button{
 hr{
     border-color: rgb(68, 52, 52);
 }
-
+a:link{
+    color: white;
+}
+a:hover{
+    color: #FFAC12;
+}
 
 
 /* CSS code for page TWO */
