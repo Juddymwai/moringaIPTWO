@@ -154,10 +154,13 @@ button{
     display: inline-block
 
 }
-#slidepic>ul{
-    width: 65%;
-   
+#slidepic{
+    width: 70%;
+    padding-left: 70px;
 }
+    
+   
+
 
 form{
     float: right;
@@ -212,8 +215,9 @@ table{
 #description{
     border-radius: 20px;
     width: 65%;
-    padding-left:70px;
+    padding-left:10px;
     padding-bottom: 30px;
+    margin-left: 70px;
     
 }
 #description hr{
@@ -230,7 +234,8 @@ table{
 #features{
   border-radius: 30px;  
   width: 65%;
-  padding-left: 70px;
+  padding-left: 15px;
+  margin-left: 70px;
 }
 #features>hr{
     border-color: azure;
@@ -244,6 +249,13 @@ table{
     border-radius: 50%;
     border: 1px solid #FFAC12;
     background-color: #FFAC12;
+}
+#listing{
+    margin-left: 70px;
+    
+}
+#listings{
+    width: 100%;
 }
 .footertwo{
     background-color: black;
