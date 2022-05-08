@@ -103,6 +103,7 @@ button{
 }
 #para{
     display: flex;
+    padding-top: 30px;
 
 }
 
