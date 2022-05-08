@@ -222,6 +222,11 @@ table{
     content: '\2713';
 
 }
+.ticks{
+    border-radius: 50%;
+    border: 1px solid #FFAC12;
+    background-color: #FFAC12;
+}
 .footertwo{
     background-color: black;
     height: 300px;
