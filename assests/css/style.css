@@ -67,7 +67,8 @@ section>div>ul{
 .sectionthree{
     background-color: black;
     height: 300px;
-    
+    padding-left: 50px;
+    padding-top: 10px;
    
 
 }
@@ -93,6 +94,16 @@ footer{
 }
 button{
     border: 0px;
+}
+#para a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    
+}
+#para{
+    display: flex;
+
 }
 
 
@@ -277,12 +288,20 @@ svg{
     width: 10px;
     height: 10px;
 }
-
-
-#social>p>svg{
+#social a{
     color: white;
+    text-decoration: none;
+    padding: 20px;
+    
 }
-   
+#social{
+    display: flex;
+}
+    
+
+
+
+
 
 
 
