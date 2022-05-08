@@ -106,6 +106,9 @@ button{
     padding-top: 30px;
 
 }
+hr{
+    border-color: rgb(68, 52, 52);
+}
 
 
 
@@ -213,6 +216,9 @@ table{
     padding-bottom: 30px;
     
 }
+#description hr{
+    border-color:azure;
+}
 #featureone{
    display: flex;
    justify-content: space-between;
@@ -226,14 +232,14 @@ table{
   width: 65%;
   padding-left: 70px;
 }
+#features>hr{
+    border-color: azure;
+}
 #featureone>div>ul{
     list-style: none;
 
 }
-#feature>div>ul>li:before{
-    content: '\2713';
 
-}
 .ticks{
     border-radius: 50%;
     border: 1px solid #FFAC12;
